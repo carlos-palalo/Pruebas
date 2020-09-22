@@ -8,7 +8,7 @@
 
 <body>
     <?php
-    $a = 1;
+    $a = 13;
     $b = "9.99";
     $c = "ejemplo variables PHP";
     //impresion
